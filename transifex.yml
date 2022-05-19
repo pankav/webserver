@@ -3,6 +3,6 @@ git:
   - filter_type: dir
     file_format: PO
     source_file_extension: po
-    source_language: en-US
-    source_file_dir: locales/en_US
+    source_language: en
+    source_file_dir: locales/en
     translation_files_expression: 'locales/<lang>'
