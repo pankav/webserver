@@ -14583,3 +14583,7 @@ msgstr "If you answered 'Yes,' what is your target for systolic (top number)?"
 msgid ""
 "paok"
 msgstr "paok, translate me"
+
+msgid ""
+"aris"
+msgstr "aris, translate me"
