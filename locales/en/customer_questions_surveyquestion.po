@@ -14580,3 +14580,6 @@ msgid ""
 "5bfe37c13b51.text"
 msgstr "If you answered 'Yes,' what is your target for systolic (top number)?"
 
+msgid ""
+"paok"
+msgstr "paok, translate me"
