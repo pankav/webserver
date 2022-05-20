@@ -14587,3 +14587,7 @@ msgstr "paok, translate me"
 msgid ""
 "aris"
 msgstr "aris, translate me"
+
+msgid ""
+"iraklis"
+msgstr "iraklis, translate me"
